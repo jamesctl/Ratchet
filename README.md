@@ -2,8 +2,9 @@
 
 [![GitHub Actions][GA Image]][GA Link]
 [![Autobahn Testsuite](https://img.shields.io/badge/Autobahn-passing-brightgreen.svg)](http://socketo.me/reports/ab/index.html)
-[![Latest Stable Version](https://poser.pugx.org/cboden/ratchet/v/stable.png)](https://packagist.org/packages/cboden/ratchet)
-
+[![Latest Stable Version](https://poser.pugx.org/jamesctl/ratchet/v/stable.png)](https://packagist.org/packages/jamesctl/ratchet)
+this package forked from https://github.com/ratchetphp/Ratchet
+Fix laravel 11.x
 A PHP library for asynchronously serving WebSockets.
 Build up your application through simple interfaces and re-use your application without changing any of its code just by combining different components.
 
