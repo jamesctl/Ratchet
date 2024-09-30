@@ -27,7 +27,7 @@
     }
   , "require": {
         "php": "^8.2"
-      , "ratchet/rfc6455": "^10"
+      , "ratchet/rfc6455": "v0.3.1"
       , "react/socket": "^3@dev"
       , "react/event-loop": ">=v1.5.0"
       , "guzzlehttp/psr7": "2.7.0"
