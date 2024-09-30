@@ -28,7 +28,7 @@
   , "require": {
         "php": "^8.2"
       , "ratchet/rfc6455": "v0.3.1"
-      , "react/socket": "3.x-dev"
+      , "reactphp/socket": "v1.16.0"
       , "react/event-loop": ">=v1.5.0"
       , "guzzlehttp/psr7": "2.7.0"
       , "symfony/http-foundation": "^7.0"
